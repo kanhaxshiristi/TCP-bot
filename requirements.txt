@@ -1,6 +1,9 @@
-flask
 httpx
-protobuf
-pyTelegramBotAPI
-pycryptodome
+urllib3
 requests
+pyjwt
+protobuf
+psutil
+pycryptodome
+protobuf-decoder
+python-telegram-bot
